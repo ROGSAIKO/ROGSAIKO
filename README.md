@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ROGSAIKO
-- 👀 I’m interested in Machine Learning and Graphic designing
-- 🌱 I’m currently learning ...machine laerning and deep learning models
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... rogsaiko1824@gmail.com
+- 💀 My full name is Ardhi Sai Kumar.
+- 🧠 I’m interested in Machine Learning, Deep Learning and Graphic designing. 
+- 🌱 I’m currently learning ...Machine laerning and deep learning models
+- 💞️ I’m looking to collaborate on ...Ml models, AI.
+- 🧧 How to reach me ... rogsaiko1824@gmail.com
 
 <!---
 ROGSAIKO/ROGSAIKO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
