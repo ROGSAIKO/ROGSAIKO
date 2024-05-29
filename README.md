@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ROGSAIKO
 - 💀 My full name is Ardhi Sai Kumar.
-- 🧠 I’m interested in Machine Learning, Deep Learning and Graphic designing. 
+- 🧠 I’m technically interested in Machine Learning, Deep Learning and Graphic designing.
+- 🧠 I am currently working my hands on full stack development in java spring.
 - 🌱 I’m currently learning ...Machine laerning and deep learning models
 - 💞️ I’m looking to collaborate on ...Ml models, AI.
 - 🧧 How to reach me ... rogsaiko1824@gmail.com
